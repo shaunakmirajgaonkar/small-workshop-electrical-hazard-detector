@@ -1,0 +1,21 @@
+workshop_id,area,inspection_date,wiring_condition_score,equipment_load_pct,panel_condition_score,grounding_score,extension_cord_score,moisture_exposure_score,equipment_age_years,incident_count_90d,inspection_image_signal_score,workshop_occupancy
+WS-001,Metal Fabrication,2026-08-22,42,108,48,36,44,55,14,4,28,12
+WS-002,Woodworking,2026-08-26,72,82,76,70,74,28,8,1,14,7
+WS-003,Auto Repair,2026-08-19,55,96,58,49,52,35,11,3,22,10
+WS-004,Welding,2026-08-28,31,118,39,28,33,46,17,6,35,9
+WS-005,Paint Shop,2026-08-14,84,69,82,81,79,62,6,0,12,5
+WS-006,Machine Shop,2026-08-17,66,91,63,58,61,44,10,2,18,15
+WS-007,Carpentry,2026-08-30,77,78,73,75,69,30,7,1,11,8
+WS-008,Auto Repair,2026-08-21,49,103,54,42,46,51,15,5,26,13
+WS-009,Metal Fabrication,2026-08-11,60,88,57,53,55,39,12,2,21,11
+WS-010,Welding,2026-08-25,26,121,34,24,29,58,19,7,41,14
+WS-011,Woodworking,2026-08-09,88,62,86,84,82,24,4,0,9,6
+WS-012,Paint Shop,2026-08-23,69,74,71,65,64,67,9,1,16,6
+WS-013,Machine Shop,2026-08-20,58,99,61,47,50,41,13,4,24,16
+WS-014,Carpentry,2026-08-27,81,72,79,77,76,26,5,0,10,7
+WS-015,Auto Repair,2026-08-18,45,110,50,39,40,49,16,4,31,12
+WS-016,Metal Fabrication,2026-08-13,73,86,69,68,65,37,8,2,15,9
+WS-017,Welding,2026-08-29,37,113,42,31,35,53,18,5,38,10
+WS-018,Machine Shop,2026-08-16,64,94,60,56,58,45,10,3,23,14
+WS-019,Woodworking,2026-08-24,79,76,75,72,71,33,6,1,13,8
+WS-020,Paint Shop,2026-08-12,70,85,68,62,63,71,9,2,20,7

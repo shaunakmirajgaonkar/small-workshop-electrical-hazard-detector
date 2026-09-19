@@ -1,0 +1,10 @@
+SMALL-WORKSHOP ELECTRICAL HAZARD DETECTOR
+
+1. Open Terminal.
+2. cd into the extracted project folder.
+3. Create a virtual environment.
+4. Install requirements.
+5. Run pytest.
+6. Start Streamlit with: streamlit run app.py
+
+Use data/sample_workshop_electrical.csv for a quick demo.
